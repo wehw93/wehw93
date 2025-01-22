@@ -3,6 +3,7 @@ Welcome to my digital Colosseum, where logic and code unite in harmony, like the
 
 ### Who am I?  
 A **Golang developer**, dedicated to the art of crafting robust and elegant solutions.  
+I’m currently honing my skills at **School 21**, a place where challenges shape developers into masters of their craft.  
 My tools are not swords or spears, but **Go**, **Docker**, and **databases**, forming the foundation of grand software structures.  
 
 ### What do I explore?  

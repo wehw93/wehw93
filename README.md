@@ -19,3 +19,7 @@ My tools are not swords or spears, but **Go**, **Docker**, and **databases**, fo
 
 ### My mission  
 To create code that stands the test of time, like the bridges built by ancient engineers.  
+
+### 📫 How to reach me  
+- **Email**: [wehw93@mail.ru](mailto:wehw93@mail.ru)  
+- **Telegram**: [@huskarinno](https://t.me/huskarinno)  
